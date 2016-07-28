@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lucida Grande', Arial, sans-serif;
+    font-size: 13px;
+}
+
+.due {
+    font-style: italic;
+}
+
+.late {
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+
+.soon {
+    font-style: italic;
+    font-weight: bold;
+}
